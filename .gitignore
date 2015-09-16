@@ -1,5 +1,4 @@
 .roboconf.sh
 /build
 /docs
-/ext/javascripts
 /node_modules
